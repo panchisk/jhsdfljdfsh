@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Cart-Ride12/main/Cart%20Ride%20Around"))()
